@@ -60,4 +60,4 @@ RiboSimFinal_SingleDist.py: Same as RiboSimFinal.py, except it generates only on
       
       transcript_length: length of the original transcript
       
-      initiation_rate_avg: rate at which new ribosomes are added to the transcript on average for the middle model
+      initiation_rate_avg: rate at which new ribosomes are added to the transcript on average
