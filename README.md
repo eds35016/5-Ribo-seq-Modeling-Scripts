@@ -4,8 +4,11 @@ Scripts to generate theoretical 5' RiboSeq data and theoretical RiboSeq data in 
 Requirements:
 
 Python 3+
+
 NumPy Package
+
 MatPlotLib Package
+
 Sklearn Package
 
 RiboSim.py: Original 5' Ribo-seq simulated data generator using a normal distribution for ribosome initiation rate variance. Generates a histogram of first ribosome positions.
