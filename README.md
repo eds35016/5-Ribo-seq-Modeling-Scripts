@@ -43,7 +43,7 @@ RiboSimPoisson_allpos.py: Same as RiboSimPoisson.py, but outputs a histogram of 
       
       initiation_rate_avg: rate at which new ribosomes are added to the transcript on average
 
-RiboSimFinal.py: Generates three separate sets of simulated data based on the method from RiboSimPoisson.py. The initiation_rate_avg of the three datasets will differ by the amount set for model_deviation. Then outputs individual dotplots and a poisson regression line for each individual dataset and one with all models combined for comparison.
+RiboSimFinal.py: Generates three separate sets of simulated data based on the method from RiboSimPoisson.py. The initiation_rate_avg of the three datasets will differ by the amount set for model_deviation. Then outputs individual dotplots (same as histogram, just avoids potential binning errors) and a poisson regression line for each individual dataset and one with all models combined for comparison.
 
   Params: 
 
