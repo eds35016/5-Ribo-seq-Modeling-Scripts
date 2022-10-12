@@ -52,7 +52,7 @@ RiboSimFinal.py: Generates three separate sets of simulated data based on the me
       
       model_deviation: the amount of deviation in initiation rate between each dataset
 
-RiboSimFinal_SingleDist.py: Same as RiboSimFinal.py, except it generates only one dataset instead of three
+RiboSimFinal_SingleDist.py: Same as RiboSimFinal.py, except it generates only one dataset instead of three.
 
   Params: 
 
