@@ -48,7 +48,7 @@ RiboSimFinal.py: Generates three separate sets of simulated data based on the me
       
       transcript_length: length of the original transcript
       
-      initiation_rate_avg: rate at which new ribosomes are added to the transcript on average for the middle model
+      initiation_rate_avg: rate at which new ribosomes are added to the transcript on average for the middle model (model 2)
       
       model_deviation: the amount of deviation in initiation rate between each dataset
 
